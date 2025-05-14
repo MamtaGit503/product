@@ -16,6 +16,9 @@
   position: relative;
   padding: 0 40px;
 }
+i.fa.fa-angle-right.arrow_submenu {
+    margin-top: 4px;
+}
 
 .advertise p {
   width: 100%;
